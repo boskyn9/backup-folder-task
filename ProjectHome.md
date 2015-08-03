@@ -1,0 +1,1 @@
+Gera arquivos zipados da pasta de origem, em uma task configurável.
